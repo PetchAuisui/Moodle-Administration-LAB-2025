@@ -352,10 +352,9 @@ Creating moodle_db ... done
 Creating moodle_app ... done
 ```
 
-**บันทึกผลการทดลอง 2:**
-```bash
- รูปผลการรัน docker-compose ที่สมบูรณ์ 
-```
+**บันทึกผลการทดลอง 2:**<br>
+<img width="1180" height="116" alt="image" src="https://github.com/user-attachments/assets/7c891a2f-fa16-4621-80f0-7acf1088f48a" />
+
 
 #### 2.3 ตรวจสอบสถานะ Containers
 
@@ -374,10 +373,9 @@ moodle_db     docker-entrypoint.sh mariadbd    Up      3306/tcp
 - **State: Up** = Container กำลังทำงาน
 - **Ports** = Port mapping ที่ใช้งาน
   
-**บันทึกผลการทดลอง 3:**
-```bash
- รูปผลการรัน docker-compose ps
-```
+**บันทึกผลการทดลอง 3:**<br>
+<img width="1094" height="61" alt="image" src="https://github.com/user-attachments/assets/9713db6a-cc0a-4a2a-96d9-76d8fd58dd40" />
+
 
 
 #### 2.4 ตรวจสอบ Logs
@@ -403,10 +401,9 @@ docker stop moodle_app
 docker start moodle_app
 
 ```
-**บันทึกผลการทดลอง 4:**
-```bash
- รูปผลการรัน docker-compose logs 
-```
+**บันทึกผลการทดลอง 4:**<br>
+<img width="1171" height="766" alt="image" src="https://github.com/user-attachments/assets/62f262a4-d303-4a44-87f7-348edaa5c228" />
+
 
 #### 2.5 ตรวจสอบ Network และ Volumes
 
@@ -420,10 +417,10 @@ docker volume ls
 docker volume inspect moodle-docker_moodledata
 ```
 
-**บันทึกผลการทดลอง 5:**
-```bash
- รูปผลการรัน ตรวจสอบ volume
-```
+**บันทึกผลการทดลอง 5:**<br>
+<img width="817" height="762" alt="image" src="https://github.com/user-attachments/assets/3b872a39-12b2-4dd6-8237-ac9b6b3faf68" />
+<img width="809" height="453" alt="image" src="https://github.com/user-attachments/assets/69ea759d-c768-4dc4-b338-364a7d790804" />
+
 
 ---
 
@@ -472,9 +469,8 @@ docker volume inspect moodle-docker_moodledata
 หลังจากบันทึกแล้ว ระบบจะแสดงหน้า **Dashboard** ของระบบ
 
 **บันทึกผลการทดลอง 6:**
-```bash
- รูปหน้า Dashboard 
-```
+<img width="1470" height="922" alt="image" src="https://github.com/user-attachments/assets/6b93c0b5-90aa-4425-ad0a-0aaedd0ede53" />
+
 
 ---
 
@@ -614,10 +610,9 @@ h1 {
 - Compact logo: 50x50 px (PNG)
 - Favicon: 32x32 px (ICO/PNG)
 
-**บันทึกผลการทดลอง 6-1:**
-```bash
- รูป ผลการปรับแต่ง Theme
-```
+**บันทึกผลการทดลอง 6-1:** <br>
+<img width="1470" height="801" alt="image" src="https://github.com/user-attachments/assets/809a7188-52fb-4eaa-b409-65c4eb884f28" />
+
 ---
 
 ### 6.2 การจัดการ Course Categories และ Courses
