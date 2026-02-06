@@ -328,10 +328,11 @@ docker pull lthub/moodle:education-4.5.8 #หากไม่สามารถ�
 docker pull mariadb:latest
 ```
 
-**บันทึกผลการทดลอง 1:**
-```bash
- รูปผลการโหลด Images ที่สมบูรณ์ 
-```
+**บันทึกผลการทดลอง 1:**<br>
+<img width="848" height="466" alt="image" src="https://github.com/user-attachments/assets/dc0e6038-c5dc-4ea5-9cca-90268555b1c9" />
+<img width="588" height="225" alt="image" src="https://github.com/user-attachments/assets/54aa1cc4-b858-44ae-999b-b67f4bb0f7d6" />
+
+
 #### 2.2 รัน Docker Compose
 
 ```bash
