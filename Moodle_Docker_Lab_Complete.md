@@ -717,7 +717,7 @@ Learning outcomes:
 4. คลิก **Save and display**
 
 **บันทึกผลการทดลอง 8:**<br>
-<img width="1470" height="925" alt="image" src="https://github.com/user-attachments/assets/43bd6485-4fde-4c92-bfd7-e9d704f815db" />
+<img width="1470" height="918" alt="image" src="https://github.com/user-attachments/assets/1802ccdb-ed30-44bb-ba6d-d392ae6fafdd" />
 
 
 ---
@@ -776,10 +776,9 @@ Programming, Python, Data Science
 
 3. คลิก **Create user**
 
-**บันทึกผลการทดลอง 9:**
-```bash
- รูปหน้า ผลการสร้าง User ใหม่
-```
+**บันทึกผลการทดลอง 9:**<br>
+<img width="1470" height="922" alt="image" src="https://github.com/user-attachments/assets/a7ee5a48-aa49-4059-827c-31b5eb15d856" />
+
 
 **วิธีที่ 2: Upload Users (CSV)**
 
@@ -800,9 +799,8 @@ student003,Pass@123,สมศักดิ์,ขยัน,student003@example.com
 6. Preview และยืนยัน
 
 **บันทึกผลการทดลอง 10:**
-```bash
- รูปหน้า ผลการ Upload Users
-```
+<img width="1470" height="921" alt="image" src="https://github.com/user-attachments/assets/5b4ce5b0-8599-4d3f-a284-c097a3f8875a" />
+
 
 #### 6.4.3 การลงทะเบียนเรียน (Enrolment)
 
@@ -861,9 +859,10 @@ Cohort = กลุ่มผู้ใช้ (เช่น ม.1, ม.2 หรื�
 4. ทดสอบการ Upload Users อีกครั้ง โดยการเพิ่มคอลัมน์ cohort ในไฟล์ CSV และเพิ่มข้อมูลนักเรียนใหม่เพิ่มเติมจากไฟล์เดิม 5 คน พร้อมทั้งกำหนดค่า cohort เพิ่มเติมจากที่มีอยู่เดิม แล้วทดสอบ Upload Users
 5. 
    **บันทึกผลการทดลอง 11:**
-```bash
- รูปหน้า ผลการ Upload Users และเพิ่มคอลัมน์ cohort
-```
+<img width="1470" height="920" alt="image" src="https://github.com/user-attachments/assets/9b5822c4-599e-43d0-ae40-21b3d0f21455" />
+<img width="1470" height="923" alt="image" src="https://github.com/user-attachments/assets/7c659b71-cbe3-418c-be5b-30aa79bd69cf" />
+<img width="1470" height="922" alt="image" src="https://github.com/user-attachments/assets/8d176cf6-b776-43bd-8e91-770a13329afa" />
+
 ---
 
 
